@@ -11,37 +11,39 @@ int main() // just to start us off
         case q1:
             cout << "Are there similar product’s " << 
                     "companies less than three?"   << endl;
-            cin >> answeryn >> endl;
+            cin  >> answeryn                       >> endl;
 
         case q2:
             cout << "Does this product target "  <<
                     "for all generations?"       << endl;
-            cin >> answeryn >> endl;
+            cin  >> answeryn                     >> endl;
 
         case q3:
             cout << "Does it have competitive price "         << 
                     "than other companies selling in Canada?" << endl;
-            cin >> answeryn >> endl;
+            cin  >> answeryn                                  >> endl;
 
         case q4:
             cout << "Does it have better quality " <<
                     "than others?"                 << endl;
-            cin >> answeryn >> endl;
+            cin  >> answeryn                       >> endl;
 
         case q5:
             cout << "Is it for four season? " << endl;
-            cin >> answeryn >> endl;
+            cin  >> answeryn                  >> endl;
 
         case q6:
             cout << "Is stock management easy? " << endl;
-            cin >> answeryn >> endl;
-            
+            cin  >> answeryn                     >> endl;
+
         case q7:
             cout << "question" << endl;
             cin >> answeryn >> endl;
+
         case q8:
             cout << "question" << endl;
             cin >> answeryn >> endl;
+            
         case q9:
             cout << "question" << endl;
             cin >> answeryn >> endl;
