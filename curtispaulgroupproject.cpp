@@ -2,8 +2,8 @@
 using namespace std; // just so we dont have to use std:: all the time
                      // it makes it look nicer
 
-int main() // just to start us off
-{
+int main()  // just to start us off
+{ 
     int answeryn
 
     switch (questions) 
@@ -11,42 +11,42 @@ int main() // just to start us off
         case q1:
             cout << "Are there similar product’s " << 
                     "companies less than three?"   << endl;
-            cin  >> answeryn                       >> endl;
+            cin  >> answeryn ;
 
         case q2:
             cout << "Does this product target "  <<
                     "for all generations?"       << endl;
-            cin  >> answeryn                     >> endl;
+            cin  >> answeryn ;
 
         case q3:
             cout << "Does it have competitive price "         << 
                     "than other companies selling in Canada?" << endl;
-            cin  >> answeryn                                  >> endl;
+            cin  >> answeryn ;
 
         case q4:
             cout << "Does it have better quality " <<
                     "than others?"                 << endl;
-            cin  >> answeryn                       >> endl;
+            cin  >> answeryn ;
 
         case q5:
             cout << "Is it for four season? " << endl;
-            cin  >> answeryn                  >> endl;
+            cin  >> answeryn ;
 
         case q6:
             cout << "Is stock management easy? " << endl;
-            cin  >> answeryn                     >> endl;
+            cin  >> answeryn ;
 
         case q7:
             cout << "question" << endl;
-            cin >> answeryn >> endl;
+            cin >> answeryn;
 
         case q8:
             cout << "question" << endl;
-            cin >> answeryn >> endl;
-            
+            cin >> answeryn;
+
         case q9:
             cout << "question" << endl;
-            cin >> answeryn >> endl;
+            cin >> answeryn;
             // the above code might not be correct, I will be talking with bryden about this later
             // But from what I saw on learncpp.com it looks correct.
             // please put in the questions as I forgot them. Don't worry about the answers.
