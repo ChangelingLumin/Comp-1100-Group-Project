@@ -4,7 +4,7 @@ using namespace std; // just so we dont have to use std:: all the time
 
 int main()  // just to start us off
 { 
-    int answeryn
+    int answeryn;
 
     switch (questions) 
     {
