@@ -12,7 +12,6 @@ cin  >> input ;
     switch (input) 
     {
         case 'y': 
-        case 'Y':
         cout << "*************************" << endl;
         cout << "Answer the next question." << endl;
         cout << "*************************" << endl;
@@ -31,7 +30,6 @@ cin  >> input ;
     switch (input) 
     {
         case 'y':
-        case 'Y':
         cout << "*************************" << endl;
         cout << "Answer the next question." << endl;
         cout << "*************************" << endl;
@@ -51,7 +49,6 @@ cin  >> input ;
     switch (input) 
     {
         case 'y':
-        case 'Y':
         cout << "*************************" << endl;
         cout << "Answer the next question." << endl;
         cout << "*************************" << endl;
@@ -69,7 +66,6 @@ cin  >> input ;
     switch (input) 
     {
         case 'y':
-        case 'Y':
         cout << "*************************" << endl;
         cout << "Answer the next question." << endl;
         cout << "*************************" << endl;
@@ -88,7 +84,6 @@ cin  >> input ;
     switch (input) 
     {
         case 'y':
-        case 'Y':
         cout << "*************************" << endl;
         cout << "Answer the next question." << endl;
         cout << "*************************" << endl;
@@ -106,7 +101,6 @@ cin  >> input ;
     switch (input) 
     {
         case 'y':
-        case 'Y':
         cout << "************" << endl;
         cout << "****    ****" << endl;
         cout << "** Buy it **" << endl; 
